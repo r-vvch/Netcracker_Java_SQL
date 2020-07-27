@@ -7,6 +7,6 @@ public class Test {
         System.out.println(object.getFunctionValue(-4));
         int[][] arr = object.initArray();
         System.out.println(object.getMinValue(arr));
-        System.out.println(object.calculateBankDeposit(4));
+        System.out.println(object.calculateBankDeposit(6));
     }
 }
