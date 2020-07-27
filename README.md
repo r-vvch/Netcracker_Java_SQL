@@ -4,3 +4,4 @@
 
 ## Trivial Tasks
 - [ControlFlowStatements1](https://github.com/r-vvch/Netcracker_Java_SQL/tree/master/ControlFlowStatements1 "Перейти к расположению")
+- [ControlFlowStatements1](https://github.com/r-vvch/Netcracker_Java_SQL/tree/master/ControlFlowStatements2 "Перейти к расположению")
