@@ -21,3 +21,4 @@
 </details>
 
 - [0. Basics](https://github.com/r-vvch/Netcracker_Java_SQL/blob/master/SQL/0.%20Basics.sql "Перейти к расположению")  — основы синтаксиса SQL
+- [1. Joins](https://github.com/r-vvch/Netcracker_Java_SQL/blob/master/SQL/1.%20Joins.sql "Перейти к расположению")  — соединения таблиц
