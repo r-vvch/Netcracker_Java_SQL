@@ -17,7 +17,7 @@
 ## SQL
 <details>
   <summary>Схема базы данных</summary>
-  <img src="https://github.com/r-vvch/Planner/blob/master/SQL/Employees.gif">
+  <img src="https://github.com/r-vvch/Netcracker_Java_SQL/blob/master/SQL/EMPLOYEES.gif">
 </details>
 
 - [0. Basics — основы синтаксиса SQL](https://github.com/r-vvch/Netcracker_Java_SQL/tree/master/SQL/0.%20Basics "Перейти к расположению"
