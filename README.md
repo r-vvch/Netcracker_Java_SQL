@@ -20,4 +20,4 @@
   <img src="https://github.com/r-vvch/Netcracker_Java_SQL/blob/master/SQL/EMPLOYEES.gif">
 </details>
 
-- [0. Basics — основы синтаксиса SQL](https://github.com/r-vvch/Netcracker_Java_SQL/tree/master/SQL/0.%20Basics "Перейти к расположению"
+- [0. Basics — основы синтаксиса SQL](https://github.com/r-vvch/Netcracker_Java_SQL/tree/master/SQL/0.%20Basics "Перейти к расположению")
