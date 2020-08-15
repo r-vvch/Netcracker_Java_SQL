@@ -106,7 +106,7 @@ WHERE REGEXP_LIKE(last_name, '(\w)\1{1,}') AND REGEXP_LIKE(last_name, '(H|K)')
 /* Из таблицы LOCATIONS выведите адрес (STREET_ADRESS) и позицию второго буквенного символа, входящего в ту же строку (адрес).
 Указание: Использование REGEXP_INSTR */
 SELECT street_address, REGEXP_INSTR(street_address, '[A-z]', 1, 2)
-FROM locations
+FROM locations;
 
 -- 2-17
 /* Выведите все страны из таблицы COUNTRIES: первым столбцом выведите название страны (COUNTRY_NAME), 
