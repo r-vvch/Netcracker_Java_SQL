@@ -1,6 +1,7 @@
 # Netcracker_Java_SQL
 Репозиторий для стаижровки по Java и SQL от компании Netcraker.  
-Об учебном центре: 🕸 https://msk.edu-netcracker.com/ 🥜
+Об учебном центре:  
+🕸 https://msk.edu-netcracker.com/ 🥜
 
 ## Java
 
@@ -25,3 +26,4 @@
 - [2. Single-row Functions](https://github.com/r-vvch/Netcracker_Java_SQL/blob/master/SQL/2.%20Single-row%20Functions.sql "Перейти к расположению") — однострочные функции
 - [3. Group by](https://github.com/r-vvch/Netcracker_Java_SQL/blob/master/SQL/3.%20Group%20by.sql "Перейти к расположению") — групповые функции
 - [4. Subqueries](https://github.com/r-vvch/Netcracker_Java_SQL/blob/master/SQL/4.%20Subqueries.sql "Перейти к расположению") — подзапросы
+- [7. Analytic functions](https://github.com/r-vvch/Netcracker_Java_SQL/blob/master/SQL/7.%20Analytic%20functions.sql "Перейти к расположению") — аналитические функции
