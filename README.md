@@ -17,8 +17,16 @@
 
 ## SQL
 <details>
-  <summary>Схема базы данных</summary>
+  <summary>Схема БД Employees</summary>
   <img src="https://github.com/r-vvch/Netcracker_Java_SQL/blob/master/SQL/EMPLOYEES.gif">
+</details>
+<details>
+  <summary>Схема БД Northwind</summary>
+  <img src="https://github.com/r-vvch/Netcracker_Java_SQL/blob/master/SQL/NORTHWIND.gif">
+</details>
+<details>
+  <summary>Схема БД Military_staff</summary>
+  <img src="https://github.com/r-vvch/Netcracker_Java_SQL/blob/master/SQL/MIL_STAFF.gif">
 </details>
 
 - [0. Basics](https://github.com/r-vvch/Netcracker_Java_SQL/blob/master/SQL/0.%20Basics.sql "Перейти к расположению")  — основы синтаксиса SQL
