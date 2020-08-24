@@ -124,6 +124,11 @@ SELECT SUBSTR(TO_CHAR(SYSTIMESTAMP, 'YYYY-MM-DD HH24:MM:SS.FF TZH:TZM'), 1, 23) 
        SUBSTR(TO_CHAR(SYSTIMESTAMP, 'YYYY-MM-DD HH24:MM:SS.FF TZH:TZM'), 27, 30)
 FROM dual;
 
+SELECT TO_CHAR(SYSTIMESTAMP, 'YYYY-MM-DD HH24:MM:SS') || '.' ||
+       LPAD(TO_CHAR(ROUND(TO_NUMBER(TO_CHAR(SYSTIMESTAMP, 'FF'))/1000)), 3, '0') || ' ' ||
+       TO_CHAR(SYSTIMESTAMP, 'TZH:TZM')
+FROM dual;
+
 -- 2-21a
 /* Для всех сотрудников выведите дату приёма на работу (hire_date), имя сотрудника, его фамилию и текущий стаж, 
 т.е. число полных лет и полных месяцев, которые он отработал с даты приёма.
