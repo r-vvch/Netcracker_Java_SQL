@@ -120,9 +120,9 @@ FROM countries;
 где миллисекунды — это обязательно 3 цифры, а часовой пояс включат минуты (часы:минуты).
 Например: 2010-10-02 17:51:32.369 +03:00
 Указание: Использование SYSTIMESTAMP. */
-    --DATEFORMAT = '<MTEXTL>- <D>-<YYYY>'
-    --SELECT SYSTIMESTAMP
-    --FROM dual
+SELECT SUBSTR(TO_CHAR(SYSTIMESTAMP, 'YYYY-MM-DD HH24:MM:SS.FF TZH:TZM'), 1, 23) || 
+       SUBSTR(TO_CHAR(SYSTIMESTAMP, 'YYYY-MM-DD HH24:MM:SS.FF TZH:TZM'), 27, 30)
+FROM dual;
 
 -- 2-21a
 /* Для всех сотрудников выведите дату приёма на работу (hire_date), имя сотрудника, его фамилию и текущий стаж, 
