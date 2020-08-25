@@ -20,34 +20,34 @@ HAVING SUM(UnitPrice * Quantity * (1 - Discount)) > 5000;
 --NW-3.5
 /* Найти заказчиков (customers), сделавших заказы в тот день или те дни (orderdate), в которые было совершено наибольшее число заказов.
 Вывести: дату (orderdate) и название компании-заказчика (companyname). */
-SELECT O.orderdate, C.companyname
-FROM orders O,
+SELECT O.OrderDate, C.CompanyName
+FROM Orders O,
      (
-     SELECT orderdate, COUNT(*)
-     FROM orders
-     GROUP BY orderdate
-     HAVING COUNT(*) = (SELECT MAX(COUNT(orderid))
-                        FROM orders
-                        GROUP BY orderdate)
+     SELECT OrderDate, COUNT(*)
+     FROM Orders
+     GROUP BY OrderDate
+     HAVING COUNT(*) = (SELECT MAX(COUNT(OrderID))
+                        FROM Orders
+                        GROUP BY OrderDate)
      ) D,
-     customers C
-WHERE O.orderdate = D.orderdate AND O.customerid = C.customerid;
+     Customers C
+WHERE O.OrderDate = D.OrderDate AND O.CustomerID = C.CustomerID;
 
 --NW-3.7
 /* Выведите идентификатор (supplierid) всех поставщиков (suppliers), поставляющих продукцию (products) только одной категории (categories),
 а также имя этой категории (categoryname) */
-SELECT S.supplierid, C.categoryname
-FROM suppliers S,
-     (SELECT supplierid, MAX(categoryid) "CAT", COUNT(DISTINCT categoryid)
-      FROM products
-      GROUP BY supplierid
-      HAVING COUNT(DISTINCT categoryid) = 1) P,
-      categories C
-WHERE S.supplierid = P.supplierid AND P.CAT = C.categoryid;
+SELECT S.SupplierID, C.CategoryName
+FROM Suppliers S,
+     (SELECT SupplierID, MAX(CategoryID) "CAT", COUNT(DISTINCT CategoryID)
+      FROM Products
+      GROUP BY SupplierID
+      HAVING COUNT(DISTINCT CategoryID) = 1) P,
+      Categories C
+WHERE S.SupplierID = P.SupplierID AND P.CAT = C.CategoryID;
 
 --NW-3.8
 /* Выведите имена (companyname) и адреса (address) заказчиков (customers), не сделавших ни одного заказа (orders) */
-SELECT companyname, address
-FROM customers, orders
-WHERE customers.customerid = orders.customerid(+)
-AND orderid IS NULL;
+SELECT CompanyName, Address
+FROM Customers, Orders
+WHERE Customers.CustomerID = Orders.CustomerID(+)
+AND OrderID IS NULL;
