@@ -12,9 +12,10 @@ discount - скидка в долях от единицы
 quantity - количество товара
 Подсказка: обратите внимание на то, что функция TO_CHAR c тем форматом, где число знаков до запятой фиксировано,
 выдает дополнительный лидирующий пробел для положительных чисел. */
-SELECT OrderId, TO_CHAR(UnitPrice * Quantity * (1 - Discount), '99999.99') as SUM
+SELECT OrderId, TO_CHAR(SUM(UnitPrice * Quantity * (1 - Discount)), '99999.99') as SUM
 FROM OrderDetails
-WHERE UnitPrice * Quantity * (1 - Discount) > 5000;
+GROUP BY OrderId
+HAVING SUM(UnitPrice * Quantity * (1 - Discount)) > 5000;
 
 --NW-3.5
 /* Найти заказчиков (customers), сделавших заказы в тот день или те дни (orderdate), в которые было совершено наибольшее число заказов.
