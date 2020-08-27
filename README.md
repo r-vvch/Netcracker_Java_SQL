@@ -25,6 +25,7 @@
 - [4. Subqueries](https://github.com/r-vvch/Netcracker_Java_SQL/blob/master/SQL/4.%20Subqueries.sql "Перейти к расположению") — подзапросы
 - [4. Subqueries + 3. Group by](https://github.com/r-vvch/Netcracker_Java_SQL/blob/master/SQL/4.%20Subqueries%20+%203.%20Group%20by.sql "Перейти к расположению") — групповые функции и подзапросы на базе Northwind
 - [7. Analytic functions](https://github.com/r-vvch/Netcracker_Java_SQL/blob/master/SQL/7.%20Analytic%20functions.sql "Перейти к расположению") — аналитические функции
+- [7. Analytic functions NW](https://github.com/r-vvch/Netcracker_Java_SQL/blob/master/SQL/7.%20Analytic%20functions%20NW.sql "Перейти к расположению") — аналитические функции на базе Northwind
 
 <details>
   <summary>Схема БД Employees</summary>
