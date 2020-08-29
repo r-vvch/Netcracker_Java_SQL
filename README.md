@@ -27,16 +27,19 @@
 - [7. Analytic functions](https://github.com/r-vvch/Netcracker_Java_SQL/blob/master/SQL/7.%20Analytic%20functions.sql "Перейти к расположению") — аналитические функции
 - [7. Analytic functions NW](https://github.com/r-vvch/Netcracker_Java_SQL/blob/master/SQL/7.%20Analytic%20functions%20NW.sql "Перейти к расположению") — аналитические функции на базе Northwind
 
+Скрипты создания баз — в папке [Schemas](https://github.com/r-vvch/Netcracker_Java_SQL/blob/master/SQL/Schemas)  
+В оригинальной версии базы Military_staff не работало создание баз из-за формата даты, и не было удаления таблиц. Тут — исправленная версия.
+
 <details>
   <summary>Схема БД Employees</summary>
-  <img src="https://github.com/r-vvch/Netcracker_Java_SQL/blob/master/SQL/EMPLOYEES.gif">
+  <img src="https://github.com/r-vvch/Netcracker_Java_SQL/blob/master/SQL/Schemas/EMPLOYEES.gif">
 </details>
 <details>
   <summary>Схема БД Northwind</summary>
-  <img src="https://github.com/r-vvch/Netcracker_Java_SQL/blob/master/SQL/NORTHWIND.gif">
+  <img src="https://github.com/r-vvch/Netcracker_Java_SQL/blob/master/SQL/Schemas/NORTHWIND.gif">
 </details>
 <details>
   <summary>Схема БД Military_staff</summary>
-  <img src="https://github.com/r-vvch/Netcracker_Java_SQL/blob/master/SQL/MIL_STAFF.gif">
+  <img src="https://github.com/r-vvch/Netcracker_Java_SQL/blob/master/SQL/Schemas/MIL_STAFF.gif">
 </details>
 
