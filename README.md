@@ -24,10 +24,10 @@
 - [3. Group by](https://github.com/r-vvch/Netcracker_Java_SQL/blob/master/SQL/3.%20Group%20by.sql "Перейти к расположению") — групповые функции
 - [4. Subqueries](https://github.com/r-vvch/Netcracker_Java_SQL/blob/master/SQL/4.%20Subqueries.sql "Перейти к расположению") — подзапросы
 - [4. Subqueries + 3. Group by](https://github.com/r-vvch/Netcracker_Java_SQL/blob/master/SQL/4.%20Subqueries%20+%203.%20Group%20by.sql "Перейти к расположению") — групповые функции и подзапросы на базе Northwind
+- [6. Hierarchical queries](https://github.com/r-vvch/Netcracker_Java_SQL/blob/master/SQL/6.%20Hierarchical%20queries.sql "Перейти к расположению") — иерархические запросы (на базе Military Staff)
 - [7. Analytic functions](https://github.com/r-vvch/Netcracker_Java_SQL/blob/master/SQL/7.%20Analytic%20functions.sql "Перейти к расположению") — аналитические функции
 - [7. Analytic functions NW](https://github.com/r-vvch/Netcracker_Java_SQL/blob/master/SQL/7.%20Analytic%20functions%20NW.sql "Перейти к расположению") — аналитические функции на базе Northwind
 
-Скрипты создания баз — в папке [Schemas](https://github.com/r-vvch/Netcracker_Java_SQL/blob/master/SQL/Schemas)  
 В оригинальной версии базы Military_staff не работало создание баз из-за формата даты, и не было удаления таблиц. Тут — исправленная версия.
 
 <details>
