@@ -1,2 +1,4 @@
 *.sql linguist-language=PLSQL
-D:/Моё/Netcracker/Netcracker_Java_SQL/SQL/Schemas/* linguist-vendored
+EMPLOYEES.sql linguist-vendored
+NORTHWIND.sql linguist-vendored
+Military_staff.sql linguist-vendored
