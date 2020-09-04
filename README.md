@@ -6,14 +6,20 @@
 ## Java
 
 ### Trivial Tasks
+Задачи для начала работы с Java.  
 - [ControlFlowStatements1](https://github.com/r-vvch/Netcracker_Java_SQL/tree/master/Java/0.%20Trivial%20Tasks/ControlFlowStatements1 "Перейти к расположению")
 - [ControlFlowStatements1](https://github.com/r-vvch/Netcracker_Java_SQL/tree/master/Java/0.%20Trivial%20Tasks/ControlFlowStatements2 "Перейти к расположению")
 
 ### OOP Tasks
+Объектно-ориентированное программирование, работа с массивами (Array Vector) и с java.lang (ComplexNumber).  
 - [ArrayVector](https://github.com/r-vvch/Netcracker_Java_SQL/tree/master/Java/1.%20OOP%20Tasks/ArrayVector "Перейти к расположению")
 - [ComplexNumber](https://github.com/r-vvch/Netcracker_Java_SQL/tree/master/Java/1.%20OOP%20Tasks/ComplexNumber "Перейти к расположению")
 - [Employee](https://github.com/r-vvch/Netcracker_Java_SQL/tree/master/Java/1.%20OOP%20Tasks/Employee "Перейти к расположению")
 - [Location](https://github.com/r-vvch/Netcracker_Java_SQL/tree/master/Java/1.%20OOP%20Tasks/Location "Перейти к расположению")
+
+### Text Handling Tasks
+ООП, работа с исключениями и использование коллекций, а также регулярные выражения.  
+- [ContactCard](https://github.com/r-vvch/Netcracker_Java_SQL/tree/master/Java/2+.%20Text%20Handling%20Tasks/ContactCard "Перейти к расположению")
 
 ## SQL
 
