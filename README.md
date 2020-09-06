@@ -21,6 +21,11 @@
 ООП, работа с исключениями и использование коллекций, а также регулярные выражения.  
 - [ContactCard](https://github.com/r-vvch/Netcracker_Java_SQL/tree/master/Java/2+.%20Text%20Handling%20Tasks/ContactCard "Перейти к расположению")
 - [CurriculumVitae](https://github.com/r-vvch/Netcracker_Java_SQL/tree/master/Java/2+.%20Text%20Handling%20Tasks/CurriculumVitae "Перейти к расположению")
+
+### Collections Tasks
+Работа с коллекциями, с некоторыми классами java.util (Date Collections) и с методами класса String (String Filter)
+- [WordCounter](https://github.com/r-vvch/Netcracker_Java_SQL/tree/master/Java/2.%20Collections%20Tasks/WordCounter "Перейти к расположению")
+
 ## SQL
 
 - [0. Basics](https://github.com/r-vvch/Netcracker_Java_SQL/blob/master/SQL/0.%20Basics.sql "Перейти к расположению")  — основы синтаксиса SQL
