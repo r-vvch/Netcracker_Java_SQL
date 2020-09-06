@@ -8,7 +8,7 @@
 ### Trivial Tasks
 Задачи для начала работы с Java.  
 - [ControlFlowStatements1](https://github.com/r-vvch/Netcracker_Java_SQL/tree/master/Java/0.%20Trivial%20Tasks/ControlFlowStatements1 "Перейти к расположению")
-- [ControlFlowStatements1](https://github.com/r-vvch/Netcracker_Java_SQL/tree/master/Java/0.%20Trivial%20Tasks/ControlFlowStatements2 "Перейти к расположению")
+- [ControlFlowStatements2](https://github.com/r-vvch/Netcracker_Java_SQL/tree/master/Java/0.%20Trivial%20Tasks/ControlFlowStatements2 "Перейти к расположению")
 
 ### OOP Tasks
 Объектно-ориентированное программирование, работа с массивами (Array Vector) и с java.lang (ComplexNumber).  
@@ -25,6 +25,7 @@
 ### Collections Tasks
 Работа с коллекциями, с некоторыми классами java.util (Date Collections) и с методами класса String (String Filter)
 - [WordCounter](https://github.com/r-vvch/Netcracker_Java_SQL/tree/master/Java/2.%20Collections%20Tasks/WordCounter "Перейти к расположению")
+
 
 ## SQL
 
