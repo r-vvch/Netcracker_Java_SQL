@@ -20,7 +20,7 @@
 ### Text Handling Tasks
 ООП, работа с исключениями и использование коллекций, а также регулярные выражения.  
 - [ContactCard](https://github.com/r-vvch/Netcracker_Java_SQL/tree/master/Java/2+.%20Text%20Handling%20Tasks/ContactCard "Перейти к расположению")
-
+- [CurriculumVitae](https://github.com/r-vvch/Netcracker_Java_SQL/tree/master/Java/2+.%20Text%20Handling%20Tasks/CurriculumVitae "Перейти к расположению")
 ## SQL
 
 - [0. Basics](https://github.com/r-vvch/Netcracker_Java_SQL/blob/master/SQL/0.%20Basics.sql "Перейти к расположению")  — основы синтаксиса SQL
