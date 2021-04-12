@@ -40,7 +40,7 @@
 - [7. Analytic functions](https://github.com/r-vvch/Netcracker_Java_SQL/blob/master/SQL/7.%20Analytic%20functions.sql "Перейти к расположению") — аналитические функции
 - [7. Analytic functions NW](https://github.com/r-vvch/Netcracker_Java_SQL/blob/master/SQL/7.%20Analytic%20functions%20NW.sql "Перейти к расположению") — аналитические функции на базе Northwind
 
-Скрипты создания баз — в папке [Schemas](https://github.com/r-vvch/Netcracker_Java_SQL/blob/master/SQL/Schemas).
+Скрипты создания баз — в папке [Schemes](https://github.com/r-vvch/Netcracker_Java_SQL/blob/master/SQL/Schemes).
 В оригинальной версии базы Military_staff не работало создание таблицы Staff из-за формата даты, и не было удаления таблиц. Тут — исправленная версия.
 
 <details>
