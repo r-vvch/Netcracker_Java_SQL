@@ -1,4 +1,4 @@
-*.sql linguist-language=PLSQL
-EMPLOYEES.sql linguist-vendored
-NORTHWIND.sql linguist-vendored
-Military_staff.sql linguist-vendored
+# *.sql linguist-language=PLSQL
+# EMPLOYEES.sql linguist-vendored
+# NORTHWIND.sql linguist-vendored
+# Military_staff.sql linguist-vendored

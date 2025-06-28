@@ -1,24 +1,24 @@
 # Netcracker_Java_SQL
-Репозиторий для стаижровки по Java и SQL от компании Netcraker.  
-Об учебном центре:  
+Репозиторий для стаижровки по Java и SQL от компании Netcraker.
+Об учебном центре:
 🕸 https://msk.edu-netcracker.com/ 🥜
 
 ## Java
 
 ### Trivial Tasks
-Задачи для начала работы с Java.  
+Задачи для начала работы с Java.
 - [ControlFlowStatements1](https://github.com/r-vvch/Netcracker_Java_SQL/tree/master/Java/0.%20Trivial%20Tasks/ControlFlowStatements1 "Перейти к расположению")
 - [ControlFlowStatements2](https://github.com/r-vvch/Netcracker_Java_SQL/tree/master/Java/0.%20Trivial%20Tasks/ControlFlowStatements2 "Перейти к расположению")
 
 ### OOP Tasks
-Объектно-ориентированное программирование, работа с массивами (Array Vector) и с java.lang (ComplexNumber).  
+Объектно-ориентированное программирование, работа с массивами (Array Vector) и с java.lang (ComplexNumber).
 - [ArrayVector](https://github.com/r-vvch/Netcracker_Java_SQL/tree/master/Java/1.%20OOP%20Tasks/ArrayVector "Перейти к расположению")
 - [ComplexNumber](https://github.com/r-vvch/Netcracker_Java_SQL/tree/master/Java/1.%20OOP%20Tasks/ComplexNumber "Перейти к расположению")
 - [Employee](https://github.com/r-vvch/Netcracker_Java_SQL/tree/master/Java/1.%20OOP%20Tasks/Employee "Перейти к расположению")
 - [Location](https://github.com/r-vvch/Netcracker_Java_SQL/tree/master/Java/1.%20OOP%20Tasks/Location "Перейти к расположению")
 
 ### Text Handling Tasks
-ООП, работа с исключениями и использование коллекций, а также регулярные выражения.  
+ООП, работа с исключениями и использование коллекций, а также регулярные выражения.
 - [ContactCard](https://github.com/r-vvch/Netcracker_Java_SQL/tree/master/Java/2+.%20Text%20Handling%20Tasks/ContactCard "Перейти к расположению")
 - [CurriculumVitae](https://github.com/r-vvch/Netcracker_Java_SQL/tree/master/Java/2+.%20Text%20Handling%20Tasks/CurriculumVitae "Перейти к расположению")
 
@@ -45,14 +45,13 @@
 
 <details>
   <summary>Схема БД Employees</summary>
-  <img src="https://github.com/r-vvch/Netcracker_Java_SQL/blob/master/SQL/Schemas/EMPLOYEES.gif">
+  <img src="https://github.com/r-vvch/Netcracker_Java_SQL/blob/master/SQL/Schemes/EMPLOYEES.gif">
 </details>
 <details>
   <summary>Схема БД Northwind</summary>
-  <img src="https://github.com/r-vvch/Netcracker_Java_SQL/blob/master/SQL/Schemas/NORTHWIND.gif">
+  <img src="https://github.com/r-vvch/Netcracker_Java_SQL/blob/master/SQL/Schemes/NORTHWIND.gif">
 </details>
 <details>
   <summary>Схема БД Military_staff</summary>
-  <img src="https://github.com/r-vvch/Netcracker_Java_SQL/blob/master/SQL/Schemas/MIL_STAFF.gif">
+  <img src="https://github.com/r-vvch/Netcracker_Java_SQL/blob/master/SQL/Schemes/MIL_STAFF.gif">
 </details>
-
